@@ -8,3 +8,4 @@ C:\Users\Administrator\Desktop\CN.NET-Buoi7\2001210455_BuiQuocCong\WindowsFormsA
 C:\Users\Administrator\Desktop\CN.NET-Buoi7\2001210455_BuiQuocCong\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Administrator\Desktop\CN.NET-Buoi7\2001210455_BuiQuocCong\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Administrator\Desktop\CN.NET-Buoi7\2001210455_BuiQuocCong\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\CN.NET-Buoi7\2001210455_BuiQuocCong\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
